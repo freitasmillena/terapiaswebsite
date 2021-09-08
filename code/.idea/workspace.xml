@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e812aa4-ca46-4c63-8bbf-b3e397dc54b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1xYCq8YMtQeOdhCQmTWWZoasDF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e812aa4-ca46-4c63-8bbf-b3e397dc54b3" name="Default Changelist" comment="" />
+      <created>1630522823125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630522823125</updated>
+      <workItem from="1630522824892" duration="14226000" />
+      <workItem from="1630537197457" duration="1438000" />
+      <workItem from="1630592486605" duration="7603000" />
+      <workItem from="1630609139464" duration="6637000" />
+      <workItem from="1630615911922" duration="55000" />
+      <workItem from="1630617004514" duration="262000" />
+      <workItem from="1630620953778" duration="1603000" />
+      <workItem from="1630623422091" duration="318000" />
+      <workItem from="1630702982804" duration="7238000" />
+      <workItem from="1630710299154" duration="3193000" />
+      <workItem from="1630713660097" duration="297000" />
+      <workItem from="1630714423350" duration="1000" />
+      <workItem from="1630753595652" duration="836000" />
+      <workItem from="1630759844630" duration="2428000" />
+      <workItem from="1630762306396" duration="1504000" />
+      <workItem from="1630763932580" duration="127000" />
+      <workItem from="1630803681085" duration="169000" />
+      <workItem from="1630887631642" duration="593000" />
+      <workItem from="1630967925857" duration="7000" />
+      <workItem from="1631021385863" duration="245000" />
+      <workItem from="1631050579487" duration="57000" />
+      <workItem from="1631050657676" duration="13000" />
+      <workItem from="1631050699609" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

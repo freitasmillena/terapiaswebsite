@@ -1,0 +1,399 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.cursor
+{
+    cursor: url('imgs/cursor1.png'), auto;
+
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #ffdbdb;
+    border-radius: 10px;
+
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #06396d;
+
+}
+
+/*--------Navegação-------*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    cursor: url('imgs/cursor1.png'), auto;
+}
+
+
+.navbar-brand img
+{
+    height: 90px;
+    width: 260px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    cursor: url('imgs/cursor2.png'), auto;
+
+
+}
+
+.navbar-nav li
+{
+    padding-bottom: 2px;
+    padding-left: 30px;
+
+
+}
+.navbar-nav li a
+{
+    float: left;
+    text-align: right;
+    padding-left: 340px;
+
+
+
+}
+
+/* Cor ao passar por cima dos itens do menu */
+#nav-bar ul li a:hover{
+    color: #f0ffff!important;
+}
+
+.navbar
+{
+    background: #ffdbdb;
+    min-height:16px !important
+
+}
+
+.navbar-toggler
+{
+    border: none!important;
+    padding: 0 0;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+.nav-link
+{
+    color: #06396d!important;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: "Lucida Bright";
+    cursor: url('imgs/cursor2.png'), auto;
+
+}
+
+/* Carrossel de imagens */
+.carousel img
+{
+    width: 1902px;
+    height:820px;
+    padding-left: 1px;
+}
+.carousel
+{
+    width: 1902px;
+    height:820px;
+    margin: 0 auto;
+
+}
+
+#imgs .carousel-control-next:hover
+{
+    cursor: url('imgs/cursor2.png'), auto;
+}
+
+#imgs .carousel-control-prev:hover
+{
+    cursor: url('imgs/cursor2.png'), auto;
+}
+
+#imgs .active:hover
+{
+    cursor: url('imgs/cursor2.png'), auto;
+}
+/* Sobre */
+
+#sobre
+{
+    padding-top: 100x;
+    background-color: #ffdbdb;
+    color: #06396d;
+    font-family: "Lucida Bright";
+    font-weight: 700;
+}
+
+.sobre-conteudo
+{
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+.sobre-img
+{
+    width: 370px;
+    height:450px;
+    margin: 0 auto;
+    border-radius: 60%;
+    padding-top: 20px;
+}
+
+
+#sobre h3
+{
+    font-family: "Lucida Bright";
+    font-weight: 700;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#sobre ul {
+    list-style-type: circle;
+    font-size: 16px;
+    margin-top: 20px;
+    font-family: "Lucida Bright";
+    list-style-position: inside;
+
+
+}
+/* Contacta-nos */
+#contactos
+{
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #eee3e4;
+    color: #06396d;
+    font-family: "Lucida Bright";
+    font-weight: 700;
+    margin: 0 auto;
+
+
+
+}
+
+#contactos h1
+{
+    text-align: center;
+    color: #06396d !important;
+    padding-bottom: 10px;
+    background-color: #ffdbdb ;
+}
+.contactos-form
+{
+    padding-top: 15px;
+    padding-left: 110px;
+    background-color: #ffdbdb;
+    height: 450px;
+
+}
+
+#contactos .btn
+{
+    background-color: #06396d;
+    border-color: #06396d;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    color: #ffdbdb;
+    font-weight: 700;
+}
+
+#contactos .btn:hover
+{
+   background-color: #ffdbdb;
+   color: #06396d;
+   cursor: url('imgs/cursor2.png'), auto;
+}
+.form-cont
+{
+    border-radius: 0!important;
+    border:none!important;
+}
+
+::placeholder
+{
+    color: #999 !important;
+}
+
+.checkboxes label
+{
+    font-size: 12px;
+    padding-bottom: 20px;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.checkboxes input
+{
+    vertical-align: left;
+
+}
+
+.checkboxes label span
+{
+    vertical-align: left;
+
+}
+
+.morada
+{
+    width: 600px;
+    height:470px;
+    padding-right: 200px;
+    margin: 0 auto;
+
+}
+
+.info
+{
+    background-color: #06396d;
+    padding-left: 25px;
+    padding-top: 10px;
+    margin: 0;
+    width: 418px;
+    height: 470px;
+    color: #eee3e4 ;
+    font-family: "Lucida Bright";
+    font-size: 16px;
+}
+
+.follow-link
+{
+    cursor: url('imgs/cursor2.png'), auto;
+}
+header {
+    z-index: 100;
+}
+
+:target {
+    position: relative;
+    border-top: 207px solid transparent;
+    margin: -200px 0 0;
+    background-clip: padding-box;
+}
+
+:target::before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: 0;
+    right: 0;
+}
+
+/* Serviços */
+
+#servicos
+{
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(imgs/servicos.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#servicos h1
+{
+    text-align: center;
+    color: #efefef !important;
+    padding-bottom: 10px;
+}
+
+.icons
+{
+    border-radius: 60%;
+    width: 150px;
+    height: 100px;
+}
+
+#servicos h4
+{
+    padding-bottom: 10px;
+    text-decoration: underline;
+    padding-top: 10px;
+    font-family: "Lucida Bright";
+}
+
+#servicos h5
+{
+    text-decoration: underline;
+    padding: 15px;
+    text-align: left;
+    font-family: "Lucida Bright";
+}
+
+#servicos p
+{
+    text-align: justify;
+    font-size: 15px;
+    margin-top: 20px;
+    color: #ccc;
+    font-family: "Lucida Bright";
+}
+
+#servicos ul {
+    list-style-type: circle;
+    text-align: justify;
+    font-size: 16px;
+    margin-top: 20px;
+    color: #ccc;
+    font-family: "Lucida Bright";
+
+
+}
+
+.servicos .col-md-3:hover
+{
+    background: #8b8687;
+    cursos:pointer;
+    transition: 0.7s;
+
+}
+
+.servicos .col-md-4:hover
+{
+    background: #8b8687;
+    cursos:pointer;
+    transition: 0.7s;
+
+}
+
+/* Rodapé */
+#rodape
+{
+    background-color: #333;
+    color: #fff;
+    padding: 12px;
+    text-align: center;
+    cursor: url('imgs/cursor1.png'), auto;
+}
+
+.fa-heart
+{
+    margin: 3px;
+    color: red;
+
+}
+
